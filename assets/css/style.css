@@ -16,11 +16,8 @@ html,body{
 
 a{
 	text-decoration: none;
-  color: var(--text-black);
 }
-p{
-  color: var(--text-black);
-}
+
 
 li{
 	list-style: none;
